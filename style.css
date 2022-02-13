@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #4D244E;
+}
+
+main {
+    
+    width: 30%;
+    margin: 4rem auto;
+    
+}
+
+.mylist {
+    background-color: #AE5F75;
+    padding: 1rem;
+    border-bottom: 1px solid #34495E;
+    transition: all 0.3s ease;
+}
+
+.mylist input {
+    float: right;
+    width: 3rem;
+    height: 2rem;
+
+    
+}
+
+.mylist h2 {
+    color: white;
+    font-weight: 700;
+
+}
+
+.mylist h3 {
+    color: #F4BB66;
+    font-weight: 700;
+}
+
+.heading {
+    text-align: center;
+    color: #A98D8C;
+    margin-bottom: 2rem;
+    
+}
+
+.heading h1 {
+    font-weight:bold;
+}
+
